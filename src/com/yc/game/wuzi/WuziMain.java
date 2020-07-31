@@ -16,7 +16,7 @@ import com.yc.game.wuzi.swing.WuziWin;
  * 五子棋主程序
  * @author 廖彦
  */
-
+//效果
 public class WuziMain {
 	public static void main(String[] args) throws UnknownHostException, IOException {
 		// 传入游戏实现类对象
